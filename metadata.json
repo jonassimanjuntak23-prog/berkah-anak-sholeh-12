@@ -1,0 +1,6 @@
+{
+  "name": "Berkah Anak Soleh - Latihan Fisika Kelas XII",
+  "description": "Website latihan soal Fisika interaktif kurikulum Kelas XII berkonsep Batik Nusantara, dilengkapi sistem pengacakan, pembahasan cara lengkap & cepat, dan narator suara.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
